@@ -2,9 +2,7 @@
 
 ## Live Link
 
-## Credits
-
-codewithsadee
+https://egroku.github.io/Portfolio/
 
 ## License
 
